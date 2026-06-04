@@ -1,0 +1,14 @@
+body {
+  font-family: Inter, Arial, sans-serif;
+  background: #F4EFE6;
+  color: #14110F;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
